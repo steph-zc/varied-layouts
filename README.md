@@ -1,4 +1,4 @@
-# App Login: Atividade 03 de Layouts Android
+# App Login: Atividade de Layouts Android
 
 **Autor:** Stefan Zanini
 
